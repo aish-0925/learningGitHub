@@ -1,6 +1,6 @@
 # Git Commands Guide
 
-#1. Setup & Configuration
+1. Setup & Configuration
 
 # Set username
 git config --global user.name "Your Name"
